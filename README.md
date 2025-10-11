@@ -10,18 +10,18 @@ The goal of this project is to analyze hospital readmission patterns among diabe
 
 ## Key Questions:
 
-What percentage of diabetic patients get readmitted, and how soon?
-Do factors like prior hospital visits, medication changes, or comorbidities (other health conditions) influence the likelihood of readmission?
-Which patient demographics (age, gender, race) show higher readmission tendencies?
+- What percentage of diabetic patients get readmitted, and how soon?
+- Do factors like prior hospital visits, medication changes, or comorbidities (other health conditions) influence the likelihood of readmission?
+- Which patient demographics (age, gender, race) show higher readmission tendencies?
 
 ## Scope of Analysis:
 
-Data cleaning and preprocessing
-Exploratory Data Analysis (EDA)
-Hypothesis testing for statistical significance
-Visualization of trends and relationships
-Insights summarization for actionable outcomes
-Expected Outcome: The analysis aims to reveal clinical and operational patterns that can help hospitals and healthcare professionals reduce readmission rates, improve diabetic care management, and allocate resources more effectively.
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Hypothesis testing for statistical significance
+- Visualization of trends and relationships
+- Insights summarization for actionable outcomes
+- Expected Outcome: The analysis aims to reveal clinical and operational patterns that can help hospitals and healthcare professionals reduce readmission rates, improve diabetic care management, and allocate resources more effectively.
 
 ## Tools & Libraries:
 
