@@ -1,5 +1,5 @@
-## **PROJECT-Hospital-Readmission-Analysis**
-#**Introduction: Hospital Readmission Analysis using Diabetes Dataset**
+## PROJECT-Hospital-Readmission-Analysis
+##Introduction: Hospital Readmission Analysis using Diabetes Dataset
 
 #**Objective:** The goal of this project is to analyze hospital readmission patterns among diabetic patients using a real-world healthcare dataset. The focus is on identifying key factors that contribute to frequent hospital returns and understanding how clinical and demographic variables affect readmission rates.
 
