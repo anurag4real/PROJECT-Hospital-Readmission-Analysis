@@ -21,6 +21,9 @@ Expected Outcome: The analysis aims to reveal clinical and operational patterns 
 Tools & Libraries:
 
 Python (Pandas, NumPy)
+
 Visualization: Matplotlib, Seaborn
+
 Statistics: SciPy
+
 Kaggle Notebook for analysis workflow
